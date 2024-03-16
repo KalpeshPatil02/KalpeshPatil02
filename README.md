@@ -25,10 +25,11 @@ Fresher but experienced Java Software Developer with a passion for building robu
 <li>Microservices Architecture</li>
 
 
-<h3>🚀 Projects</h3>
+<h2>🚀 Projects</h2>
 
 
 💬 Let's Connect
 Feel free to reach out to me to discuss collaborations, opportunities, or just to geek out about Java and software development in general!
 
-LinkedIn Facebook Instagram
+<a href="https://www.linkedin.com/in/kalpeshpatil20/" >LinkedIn</a>
+Facebook Instagram
