@@ -16,12 +16,15 @@ Fresher but experienced Java Software Developer with a passion for building robu
  
  
 
-🔭 I’m currently working on
-E-Commerce application using Spring Boot
-🌱 Currently Learning
-Thymeleaf Templates
-JavaScript
-Microservices Architecture
+<h3>🔭 I’m currently working on</h3>
+<li> application using Spring Boot</li>
+
+<h3>🌱 Currently Learning</h3>
+<li> Thymeleaf Templates</li>
+<li>JavaScript</li>
+<li>Microservices Architecture</li>
+
+
 🚀 Projects
 CONTACT MANAGER: Introducing our Contact Manager Application: Seamlessly organize and access all your contacts in one place! Effortlessly store, update, and retrieve contact information with intuitive features and a user-friendly interface. Simplify your communication and stay connected with ease. Try it now for streamlined contact management! 📞✨.
 
