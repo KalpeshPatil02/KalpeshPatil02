@@ -25,10 +25,8 @@ Fresher but experienced Java Software Developer with a passion for building robu
 <li>Microservices Architecture</li>
 
 
-🚀 Projects
-CONTACT MANAGER: Introducing our Contact Manager Application: Seamlessly organize and access all your contacts in one place! Effortlessly store, update, and retrieve contact information with intuitive features and a user-friendly interface. Simplify your communication and stay connected with ease. Try it now for streamlined contact management! 📞✨.
+<h3>🚀 Projects</h3>
 
-STUDENT MANAGEMENT: Introducing our Student Management Application: Your all-in-one solution for effortless student data management. With simple CRUD operations (Create, Read, Update, Delete), this application allows you to efficiently add, view, edit, and remove student records. 🎓💻
 
 💬 Let's Connect
 Feel free to reach out to me to discuss collaborations, opportunities, or just to geek out about Java and software development in general!
