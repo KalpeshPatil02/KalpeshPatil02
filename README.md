@@ -1,7 +1,7 @@
 <h1>Hi there! 👋 I'm Kalpesh 👨‍💻</h1>
-Experienced Java Software Developer with a passion for building robust and scalable applications. I've spent 2.5 years honing my skills in Java development, and I'm constantly exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
+Fresher but experienced Java Software Developer with a passion for building robust and scalable applications. I've spent 2.5 years honing my skills in Java development, and I'm constantly exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
 
-🔧 Technologies & Tools
+<h4>🔧 Technologies & Tools</h4>
 Languages: Java, SQL, HTML, CSS
 Frameworks: Spring Framework, Hibernate
 Tools: Eclipse, Git, Maven
