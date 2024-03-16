@@ -31,6 +31,6 @@ Fresher but experienced Java Software Developer with a passion for building robu
 💬 Let's Connect
 Feel free to reach out to me to discuss collaborations, opportunities, or just to geek out about Java and software development in general!
 
-<a href="https://www.linkedin.com/in/kalpeshpatil20/">LinkedIn</li></a><br>
-<a href="https://www.instagram.com/freestyle_kalpp/?igsh=MW9nNGhxYmRiOXM2ag%3D%3D" >Instagram</a>
+<li><a href="https://www.linkedin.com/in/kalpeshpatil20/">LinkedIn</a></li><br>
+<li></li><a href="https://www.instagram.com/freestyle_kalpp/?igsh=MW9nNGhxYmRiOXM2ag%3D%3D" >Instagram</a></li>
 
