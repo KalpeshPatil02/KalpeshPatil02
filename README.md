@@ -1,7 +1,7 @@
 <h1>Hi there! 👋 I'm Kalpesh 👨‍💻</h1>
 Fresher but experienced Java Software Developer with a passion for building robust and scalable applications. I've spent 2.5 years honing my skills in Java development, and I'm constantly exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
 
-<h3>🔧 Technologies & Tools</h3>
+<h2>🔧 Technologies & Tools</h2>
 <br>
 
 <ul>
@@ -16,7 +16,7 @@ Fresher but experienced Java Software Developer with a passion for building robu
  
  
 
-<h3>🔭 I’m currently working on</h3>
+<h2>🔭 I’m currently working on</h2>
 <li> application using Spring Boot</li>
 
 <h3>🌱 Currently Learning</h3>
