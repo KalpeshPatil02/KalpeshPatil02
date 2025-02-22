@@ -9,7 +9,7 @@ Fresher but experienced Java Software Developer with a passion for building robu
    <li><b>Frameworks: </b>Spring Framework, Hibernate</li>
   <li><b>Tools: </b>Eclipse, Git, Maven</li> 
   <li><b>Databases: </b> MySQL</li> 
-  <li><b>Others: </b>RESTful APIs, JUnit</li>
+  <li><b>Others: </b>RESTful APIs, JUnit, Mockito</li>
 </ul>
 
 
