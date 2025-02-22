@@ -1,5 +1,5 @@
 <h1>Hi there! 👋 I'm Kalpesh 👨‍💻</h1>
-Fresher but experienced Java Software Developer with a passion for building robust and scalable applications. I've spent 2.5 years honing my skills in Java development, and I'm constantly exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
+Experienced Java Software Developer with a passion for building robust and scalable applications. I've spent 2.5 years honing my skills in Java development, and I'm constantly exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
 
 <h2>🔧 Technologies & Tools</h2>
 <br>
