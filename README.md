@@ -23,6 +23,7 @@ Experienced Java Software Developer with a passion for building robust and scala
 <li> Thymeleaf Templates</li>
 <li>JavaScript</li>
 <li>Microservices Architecture</li>
+<li>Spring Security</li>
 
 
 <h2>🚀 Projects</h2>
